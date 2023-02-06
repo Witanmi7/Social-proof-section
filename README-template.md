@@ -1,5 +1,6 @@
 # Frontend Mentor - Solución de sección de prueba social
 Esta es una solución al desafío de la sección de prueba social en Frontend Mentor
+![social proof section](https://user-images.githubusercontent.com/116517359/217081445-55bf1200-2554-43c3-b8a7-e95a54dacf5d.png)
 
 
 ## Mi proceso
